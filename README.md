@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Jared</h1>
 <h3>A passionate designer and developer based in NYC</h3>
 
-- 🔭 I’m currently working on [Film Roulette](https://jp8081.github.io/film-roulette)
+- 🔭 I’m currently working on [Film Roulette](https://jpdesignerdev.github.io/Film-Roulette)
 
 - 👨‍💻 All of my projects are available at: [https://jaredpoulsen.design](https://jaredpoulsen.design)
 
