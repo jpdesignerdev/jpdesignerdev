@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jared</h1>
-<h3>A passionate designer and developer based in NYC</h3>
+<h3>A designer and developer based in NYC</h3>
 
 - 🔭 I’m currently working on [Film Roulette](https://jpdesignerdev.github.io/Film-Roulette)
 
