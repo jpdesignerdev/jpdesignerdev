@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://jaredpoulsen.design](https://jaredpoulsen.design)
 
-- 📫 How to reach me: **poulsenjared@gmail.com**
+- 📫 How to reach me: **jaredpoulsendesign@gmail.com**
 
 - ⚡ Fun fact: **I train Brazilian Jiu-Jitsu 🥋**
 
